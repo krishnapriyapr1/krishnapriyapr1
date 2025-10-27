@@ -18,7 +18,7 @@ jobs:
       - name: Generate dark mode snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: N-JK
+          github_user_name: krishnapriyapr1
           outputs: dist/snake-dark.svg
           color_snake: "#1E90FF"   # Dodger Blue for dark mode
 
@@ -26,7 +26,7 @@ jobs:
       - name: Generate light mode snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: N-JK
+          github_user_name: krishnapriyapr1
           outputs: dist/snake-light.svg
           color_snake: "#000000"   # Black snake for light mode
 
