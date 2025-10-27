@@ -154,13 +154,18 @@
 <hr/>
 
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/krishnapriyapr1/krishnapriyapr1/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-light.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-dark.svg" />
+  </picture>
 </div>
 
+<br/><br/><br/>
 
 <hr/>
 
