@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nibinjohn29.nibinjohn29" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=krishnapriyapr1.krishnapriyapr1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nibin+John!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishnapriya P.R.!;" />
 </h1>
 
 <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast 🌩️</h3>
